@@ -1,0 +1,5 @@
+com/example/jndi/LocalDataSource.class
+com/example/jndi/DatabaseContext.class
+com/example/jndi/JndiTest.class
+com/example/jndi/DatabaseContextFactory.class
+com/example/jndi/JndiServiceBean.class
