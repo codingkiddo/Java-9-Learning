@@ -33,6 +33,14 @@
     <version>1.4</version>
 </dependency>
 		
+		<!-- https://mvnrepository.com/artifact/net.jcip/jcip-annotations -->
+<dependency>
+    <groupId>net.jcip</groupId>
+    <artifactId>jcip-annotations</artifactId>
+    <version>1.0</version>
+    <scope>provided</scope>
+</dependency>
+		
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-dbcp2</artifactId>
@@ -160,8 +168,8 @@
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.8.0</version>
 				<configuration>
-					<source>17</source>
-					<target>17</target>
+					<source>18</source>
+					<target>18</target>
 				</configuration>
 			</plugin>
 		</plugins>
